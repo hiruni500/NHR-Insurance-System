@@ -1,0 +1,55 @@
+body{
+    
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),#83c7cf; 
+    background-size: cover;  
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.adminheading{
+   margin: 60px;
+}
+
+.adminloginbox{
+    background: #fff;
+    box-shadow: 0 3px 6px rgba(0,0, 0, 0.60);
+    border-radius: 20px;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 20vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.error{
+    color: red;
+    margin-left: 34px;
+    border: 2px solid red;
+    padding: 10px;
+    width: 230px;
+}
+.admintextbox{
+    width: 280px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+.adminloginbtn{
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: #83c7cf;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+.adminloginbtn:hover{
+    box-shadow: 0 3px 6px rgba(0,0, 0, 0.60);
+}

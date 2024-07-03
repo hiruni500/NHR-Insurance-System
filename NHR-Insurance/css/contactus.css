@@ -1,0 +1,118 @@
+.contact_usContent{
+    margin-top: 100px;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),#83c7cf; 
+    background-size: cover;  
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+   
+._contactUs{
+    border-radius: 15px;
+    padding: 20px;
+    margin: 100px;
+    background-color: #83C7CF;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 1px 7px 9px 1px rgba(0,0,0,0.6);
+}
+   
+._contactUs .contactus_img img{
+    width: 400px;
+    height: 300px;
+}
+   
+._contactUs .contactus_img {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+   
+.sub-button{
+    background-color: rgb(8, 107, 169);
+    color: white;
+    padding: 12px 20px;
+    border: 5px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    width: 100px;
+}
+
+.sub-button:hover{
+    box-shadow: 1px 7px 9px 1px rgba(0,0,0,0.6);
+}
+
+.heading_contact_us{
+    font-size: 34px;
+    margin: 0 40px 20px 40px;
+    text-align: center;
+}
+
+.question{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    color: rgb(8, 107, 169);
+}
+   
+.contact_us_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    width: 95%;
+    border-radius: 20px;
+}
+   
+.contactUsTextbox{
+    margin: 0 10px 10px 10px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+    border-radius: 10px;
+    border:2px solid gray;
+    background-color: rgb(247, 228, 228);
+    height: 40px;
+    width: 300px;
+    color: rgb(14, 14, 14);
+    font-family: 'Times New Roman', Times, serif;
+}
+   
+.contactUsTextArea{
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+    border-radius: 10px;
+    border:2px solid gray;
+    background-color: rgb(247, 228, 228);
+    height: 100px;
+    resize: none;
+}
+   
+.contactusinfo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+   
+.E-mailInfo{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+

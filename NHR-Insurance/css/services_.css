@@ -1,0 +1,167 @@
+.servicesbody{
+    width:100%;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),#83c7cf; 
+    padding-top: 50px;
+    margin-top: 100px;
+}
+
+.services_h2{
+    color:#83c7cf;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+.services_h1{
+    color:white;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.row1{
+    width: 10px;
+    margin-left: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.row2{
+    width: 10px;
+    margin-left: 230px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box{
+    width: 250px;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    padding: 20px;
+    border: solid 2px;
+    border-color: rgb(14, 81, 83);
+    margin: 50px;
+    background-color: #83c7cf;
+}
+
+.aboutus_part2{
+    align-items: right;
+    justify-content: right;
+}
+
+.box img{
+    width: 250px;
+    height: 200px;
+}
+
+.box h3{
+    font: size 25px;
+    padding-top: 20px;
+    color: navy;
+}
+
+.box p{
+    color: black;
+    padding-top: 20px;
+    line-height: 25px;
+}
+
+.services_paragraph{
+    text-align: justify;
+}
+
+.services_paragraph5{
+    margin-bottom: 25px;
+    text-align: justify;
+}
+
+.services_paragraph6{
+    margin-bottom: 5px;
+    text-align: justify;
+}
+
+.services_paragraph4{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.services_paragraph2{
+    margin-bottom: 25px;
+    text-align: justify;
+}
+
+.services_paragraph3{
+    margin-bottom: 5px;
+    text-align: justify;
+}
+
+#demo1{
+    display: none;
+}
+#demo2{
+    display: none;
+}
+#demo3{
+    display: none;
+}
+#demo4{
+    display: none;
+}
+#demo5{
+    display: none;
+}
+#demo6{
+    display: none;
+}
+#demo7{
+    display: none;
+}
+
+.box .btn{
+    width: 150px;
+    height: 40px;
+    background:navy ;
+    border-radius: 10px;
+    border: none;
+    color:#fff ;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.box .btn:hover{
+    background: #fff;
+    color: navy;
+    border: 1px solid navy ;
+}
+
+.box .btn7{
+    width: 150px;
+    height: 40px;
+    background:navy ;
+    border-radius: 10px;
+    border: none;
+    color:#fff ;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.box .btn7:hover{
+    background: #fff;
+    color: navy;
+    border: 1px solid navy ;
+}
+
+.services_paragraph7{
+    margin-bottom: 0px;
+    text-align: justify;
+}

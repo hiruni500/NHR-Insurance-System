@@ -1,0 +1,142 @@
+.aboutus_container{
+    margin-top: 100px;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),#83c7cf;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.aboutus_box{
+    margin: 20px 20px 30px 20px;
+    padding: 20px;
+    display: column;
+}
+
+.aboutus_heading p{
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 20px 40px 20px 40px;
+    text-align: center;
+}
+
+.span_aboutus{
+    color: #83c7cf;
+    font-size: 48px;
+}
+
+.paragraph1{
+    display: flex;
+    border: 4px solid white;
+}
+
+.topic{
+    margin: 40px 20px 20px 40px;
+    color: white;
+    font-size: 40px;
+}
+
+.paragraph1 .description1{
+    margin: 20px;
+    background-color: #83c7cf;
+    align-items: center;
+    border-radius: 5px;
+    text-align: justify;
+    box-shadow: 1px 7px 9px 1px rgba(0,0,0,0.6);
+}
+
+.paragraph1 .description1:hover{
+    box-shadow: 1px 11px 11px 1px rgba(0, 0, 0, 0.6);
+}
+
+.description1 p{
+    color: black;
+    padding: 5px;
+    margin: 20px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.paragraph2{
+    margin: 0px 20px 0px 20px;
+    padding: 20px 20px 0px 20px;
+    display: flex;
+}
+
+.part1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.part1 .aboutus_image1{
+    width: 500px;
+    height: 300px;
+    margin: 40px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+
+.part1 p{
+    color: #023339;
+    border-radius: 15px;
+    text-align: justify;
+    background-color: #83c7cf;
+    padding: 15px;
+    margin: 0px 20px 20px 20px;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 1px 7px 9px 1px rgba(0,0,0,0.6);
+}
+
+.part1 p:hover{
+    box-shadow: 1px 11px 11px 1px rgba(0, 0, 0, 0.6);
+}
+
+.part2{
+    display: flex;
+}
+
+.part2 .aboutus_image2{
+    width: 400px;
+    height: 500px;
+    margin: 90px 70px 0px 40px;
+    margin-left: 0px;
+}
+
+.part2 p{
+    color: white;
+    text-align: justify;
+    padding: 5px 5px 0px 5px;
+    margin: 20px 20px 0px 20px;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.newparagraph{
+    color: white;
+    text-align: justify;
+    padding: 0px 22px;
+    margin: 0px 40px 20px 40px;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Introduction{
+    color: #83c7cf;
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.nhrinsurance{
+    font-size: 50px;
+    color: white;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}

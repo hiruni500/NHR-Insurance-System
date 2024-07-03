@@ -1,0 +1,65 @@
+/* CSS styling for the header */
+.TermsAndPrivcyheader {
+    margin-top: 100px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  /* CSS styling for the container */
+  .TermsAndPrivcy {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  /* CSS styling for the container */
+  hr{
+    width: 100%;
+    border-bottom: 4px solid gray;
+    margin-top: 0px;
+  }
+
+  /* CSS styling for the image column */
+  .image-column {
+    flex: 1;
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 120px;
+  }
+
+  /* CSS styling for the description column */
+  .description-column {
+    flex: 1;
+    padding: 20px;
+  }
+
+  /* CSS styling for the button */
+  .button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  /* description */
+  .description-column{
+      text-align:justify;
+      margin-right:100px;
+      margin-top:50px;
+      line-height:20px;
+  }
+  .TermsAndPrivcybody{
+      background-color:#83c7cf;
+      text-shadow:50px;
+      background-size: cover;
+      height: 100%;
+  }
+  #para{
+      color:#F04231;
+  }
